@@ -1,5 +1,7 @@
 # Package Configuration with Environment Variables
 
+Note that in this example the environment variable names are inferred based on a configuration template. This adds some complexity but makes the configuration definition more compact. This functionality might belong into a module of its own even.
+
 ## Advantages
 
 * Simple to use although slightly more complicated than module
