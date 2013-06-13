@@ -4,4 +4,4 @@ module.exports = {
         accessKeyId: 'replacethis',
         secretAccessKey: 'replacethis'
     }
-}
+};
