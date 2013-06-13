@@ -1,4 +1,4 @@
-# Module Configuration
+# Package Configuration
 
 ## Advantages
 
