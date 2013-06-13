@@ -1,7 +1,5 @@
 # JSON Configuration
 
-It is possible to store configuration into a JSON file.
-
 ## Advantages
 
 * Simple to use
