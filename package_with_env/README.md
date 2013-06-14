@@ -1,6 +1,8 @@
 # Package Configuration with Environment Variables
 
-Note that in this example the environment variable names are inferred based on a configuration template. This adds some complexity but makes the configuration definition more compact. This functionality might belong into a module of its own even.
+This example uses [parse-env](https://npmjs.org/package/parse-env) to provide support for environment variables for the configuratio.
+
+Remember to run `npm install` before executing './index.js'.
 
 ## Advantages
 
@@ -14,3 +16,4 @@ Note that in this example the environment variable names are inferred based on a
 ## Disadvantages
 
 * Too complex for simple cases?
+* Requires an external dependency
