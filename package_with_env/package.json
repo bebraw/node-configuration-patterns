@@ -1,0 +1,11 @@
+{
+    "name": "package-with-env-demo",
+    "private": true,
+    "description": "This example shows how to use parse-env",
+    "author": "Juho Vepsalainen <bebraw@gmail.com>",
+    "version": "0.1.0",
+
+    "dependencies": {
+        "parse-env": "0.1.0"
+    }
+}
