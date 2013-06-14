@@ -6,7 +6,8 @@ Generally it's a good idea not to put actual configuration to the repository for
 
 ## Packages
 
-* [nconf](https://github.com/flatiron/nconf)
+* [nconf](https://npmjs.org/package/nconf)
+* [parse-env](https://npmjs.org/package/parse-env)
 
 ## Resources
 
