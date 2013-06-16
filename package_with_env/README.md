@@ -1,8 +1,10 @@
 # Package Configuration with Environment Variables
 
-This example uses [parse-env](https://npmjs.org/package/parse-env) to provide support for environment variables for the configuratio.
+This example uses [parse-env](https://npmjs.org/package/parse-env) to provide support for environment variables for the configuration.
 
 Remember to run `npm install` before executing './index.js'.
+
+Copy `template.config.js` as `config.js` to override the default configuration. You may also use environment variables to override it. Ie. a configuration mapped as aws.accessKeyId maps as AWS_ACCESS_KEY_ID.
 
 ## Advantages
 

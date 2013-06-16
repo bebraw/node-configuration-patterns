@@ -6,6 +6,6 @@
     "version": "0.1.0",
 
     "dependencies": {
-        "parse-env": "0.1.1"
+        "parse-env": "0.1.2"
     }
 }
